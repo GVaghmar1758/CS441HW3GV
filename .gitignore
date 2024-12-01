@@ -1,0 +1,31 @@
+# SBT build directory
+target/
+project/target/
+project/project/
+
+# sbt launcher
+lib/
+
+# Eclipse project files
+.project
+.classpath
+.settings/
+
+# IntelliJ IDEA project files
+.idea/
+*.iml
+
+# Scala-IDE project files
+.metals/
+
+# sbt history file
+.sbt-history
+
+# Miscellaneous
+*.log
+*.tmp
+*.swp
+.DS_Store
+
+# JDK generated files
+*.class
